@@ -26,6 +26,7 @@ section {
     padding: 20px;
     border-radius: 8px;
 }
+
 /* Estilos para el Formulario */
 #contacto {
     background-color: var(--blanco);
@@ -61,7 +62,7 @@ section {
 
 .boton-enviar {
     background-color: var(--rojo-inem);
-    color: white;
+    color: blue;
     padding: 15px;
     border: none;
     border-radius: 8px;
