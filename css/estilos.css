@@ -1,4 +1,4 @@
-body {
+    body {
     font-family: 'Arial', sans-serif;
     background-color: #d29bfd; /* Un lila de fondo */
     color: #000000; /* Texto negro para mejor lectura */
@@ -104,7 +104,7 @@ section {
 .enlaces {
     list-style: none;
     display: flex;
-    gap: 30px; /* Espacio entre botones */
+    gap: 50px; /* Espacio entre botones */
     margin: 0;
 }
 
