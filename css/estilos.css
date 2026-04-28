@@ -1,6 +1,6 @@
     body {
     font-family: 'Arial', sans-serif;
-    background-color: #d29bfd; /* Un lila de fondo */
+    background-color: #f1bff7; /* Un lila de fondo */
     color: #000000; /* Texto negro para mejor lectura */
     line-height: 1.6;
     margin: 0;
@@ -8,7 +8,7 @@
 }
 
 header {
-    background-color: #f1bff7; /* Un color pastel */
+    background-color: #d545e8; /* Un color pastel */
     color: black;
     padding: 20px;
     text-align: center;
