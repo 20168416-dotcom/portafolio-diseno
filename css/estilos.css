@@ -8,7 +8,7 @@
 }
 
 header {
-    background-color: #ffee8c; /* Un color pastel */
+    background-color: #f1bff7; /* Un color pastel */
     color: black;
     padding: 20px;
     text-align: center;
@@ -96,7 +96,7 @@ section {
 }
 
 .logo {
-    color: #ffffff; /* Blanco */
+    color: #000000; /* negro */
     font-weight: bold;
     font-size: 1.5rem;
     text-transform: uppercase;
