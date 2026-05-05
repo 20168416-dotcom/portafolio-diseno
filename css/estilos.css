@@ -242,7 +242,7 @@ section {
 .precio {
     font-size: 1.4rem;
     font-weight: bold;
-    color: #d32f2f; /* Rojo para el precio */
+    color: #0000ff; /* azul para el precio */
     margin: 15px 0;
 }
 
